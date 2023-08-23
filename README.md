@@ -1,4 +1,4 @@
-# Data Analysis Project By SQL and Power BI
+# Sales Overview (Data Analysis Project By SQL and Power BI)
 Download database from Microsoft website and Use SQl server to Import it.
 Exploring Data to know what data we will need to clean for answering The Questions.
 Cleaning & Transformation Data by SQL.
