@@ -1,7 +1,19 @@
 # Sales Overview (Data Analysis Project By SQL and Power BI)
-Download database from Microsoft website and Use SQl server to Import it.
-Exploring Data to know what data we will need to clean for answering The Questions.
-Cleaning & Transformation Data by SQL.
-Load Data into Power BI, Prepare Tables and connect them for Data Model.
-Adding Required Measures to answer the questions.
-Design Dashboard showing results.
+
+**Steps for Project**
+1. Download database from Microsoft Website and Use SQl Server to Import it.
+2. Exploring Data to know what Data we will need to clean.
+3. Cleaning & Transformation Data by SQL.
+4. Loading Data into Power BI, Prepare Tables and Connect them for Data Model.
+5. Adding Required Measures.
+6. Design Dashboard showing Results.
+
+**Insights**
+1. Comparison between Total Sales and Budget.
+2. Total Salesby Product Category.
+3. Monthly Trend for Total Sales and Budget.
+4. Total Sales by Customer City.
+5. Total Sales by Top 10 Customers.
+6. Total Sales by Top 10 Products.
+7. Table Showing Total Sales by Customers per Month.
+8. Table Showing Total Sales by Category and Products per Month.
